@@ -23,10 +23,22 @@ async getUserById(id) {
     return null;
   }
 };
+
+////////////////////////////////////////////////////////////////////////
+async getUsersByCartId(id) {
+  try {
+    
+    const user = await userRepository.getUsersByCartId(id);
+    return user;
+  } catch (error) {
+    console.log();
+    return null;
+  }
+};
 ////////////////////////////////////////////////////////////////////////
 async getUserRole(role) {
   try {
-    console.log("getusuerrole service " , role);
+    
     const user = await userRepository.getUserRole(role);
     return user;
   } catch (error) {

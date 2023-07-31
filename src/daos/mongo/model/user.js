@@ -21,6 +21,22 @@ const userSchema = new mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: "cart",
   },
+  documents : [
+    {
+      name:  { type:String },   
+      reference: {type: String},
+    }
+  ],
+  last_connection: {
+    type: Date
+    
+  },
+  profile : 
+    {
+      name:  { type:String },   
+      reference: {type: String},
+    }
+  
 });
 
 

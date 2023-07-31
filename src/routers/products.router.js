@@ -1,6 +1,6 @@
 import { Router } from "express";
 //import { uploader } from "../utils.js";
-import { uploader } from "../dirname.js";
+import { uploadDocuments } from "../dirname.js";
 
 import { checkPermisosAdministrador } from "../middlewares/auth.js";
 
@@ -16,7 +16,9 @@ productsRouter.get("/", getProducts);
  */
 productsRouter.get("/:pId",getProductsById);
 //////////////////////////////////////////////////////////////////////////////////////////////
-productsRouter.post("/" , uploader.array("pThumbnail"),addProduct);
+//productsRouter.post("/" , uploadImages.array("pThumbnail"), addProduct);
+productsRouter.post("/" , uploadDocuments.fields([{ name: 'pThumbnail'}]), addProduct);
+
 //////////////////////////////////////////////////////////////////////////////////////
 productsRouter.put("/",  updateProducto);
 //////////////////////////////////////////////////////////////////////////////////////

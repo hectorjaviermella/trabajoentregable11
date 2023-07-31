@@ -127,18 +127,21 @@ export  async function addProduct(req, res) {
       };
 
     const files = req.files;
+
+    //console.log("files" , files);
  
+
     newproduct.pThumbnail=[];
 
-    if (files){
+    if (files.pThumbnail){
       console.log("entro a cargar imat");
-        files.forEach( files =>{
-          const imgUrl=`http://localhost:8080/images/${files.filename}`
+        files.pThumbnail.forEach( files =>{
+          const imgUrl=`http://localhost:8080/images/products/${files.filename}`
           newproduct.pThumbnail.push(imgUrl);
         });   
      } 
   
-    
+     //console.log("imaggexx  " , newproduct );
 
 
   const createdProduct =  await productsService.addProduct(newproduct);

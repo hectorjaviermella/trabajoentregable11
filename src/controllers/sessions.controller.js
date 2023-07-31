@@ -5,19 +5,32 @@ import { createHash, isValidPassword, transport } from "../utils.js";
 import { userModel } from "../daos/mongo/model/user.js";
 import config from "../config/config.js";
 import jwt from "jsonwebtoken";
+import  UsersService  from "../services/users.service.js";
+const usersService = new UsersService();
 
 export const sessionsRouter = Router();
 ////////////////////////////////////////////////////////////////
-export function logout(req, res) {
+export async function logout(req, res) {
+  console.log("req.session " , req.session);
+  if (req.session){
+    const cart =req.session.user.cart;
+        const user = await usersService.getUsersByCartId({cart});
+  
+  
+    user.last_connection= new Date();
+    const result = await usersService.updateUser(user._id,user);
+  };
+    req.session.destroy( err => {
+      if (!err) {
+              return res.send("Logout exitoso");
+              //return res.redirect("/login");
+      }
+      else
+          res.send("Logout no exitoso");
+    })
 
-  req.session.destroy( err => {
-    if (!err) {
-             return res.send("Logout exitoso");
-             //return res.redirect("/login");
-    }
-    else
-         res.send("Logout no exitoso");
-  })
+///else   res.send("Logout no exitoso");
+    
 };
 
 ////////////////////////////////////////////////////////////////////////////
@@ -34,7 +47,6 @@ export function login(req, res) {
    
     if (!req.user)
       return res.status(401).send({ status: "error", error: "Unauthorized" });
-
 
 
     req.session.user = {

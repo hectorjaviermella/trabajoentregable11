@@ -94,7 +94,7 @@ app.use("/loggerTest", loggerRouter);
 app.use("/api/users", usersRouter);
 
 //manejador de errores
-app.use(errorHandler);
+//app.use(errorHandler);
 
 
 const httpServer = app.listen(8080, (req,res) => {   

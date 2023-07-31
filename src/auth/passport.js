@@ -3,6 +3,8 @@ import local from "passport-local";
 import { cartModel } from "../daos/mongo/model/cart.js";
 import { userModel } from "../daos/mongo/model/user.js";
 
+import  UsersService  from "../services/users.service.js";
+
 
 import { createHash, isValidPassword } from "../utils.js";
 import GitHubStrategy from "passport-github2";
@@ -12,6 +14,7 @@ import CustomError from "../services/errors/CustomError.js";
 import ErrorCode from "../services/errors/enum.js";
 import { addProductErrorInfo,CartErrorInfo,authenticationErrorInfo } from "../services/errors/info.js";
 
+const usersService = new UsersService();
 const { clientID, clientSecret, callbackUrl } = config;
 
 const LocalStrategy = local.Strategy;
@@ -92,8 +95,10 @@ const initializePassport = () => {
           else
                user.role="user";*/
 
-        
 
+               user.last_connection= new Date();             
+            const result = await usersService.updateUser(user._id,user);
+      
           return done(null, user);  //retorno el usuario
         } catch (error) {
           return done(error);

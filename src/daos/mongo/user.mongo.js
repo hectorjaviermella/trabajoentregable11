@@ -19,7 +19,10 @@ class User {
   ///////////////////////////////////////////////////////
   getUsersByCartId = async (cid) => {
     
-    const user = await userModel.findOne({ cart: cid}).lean();  
+    
+    const user = await userModel.findOne({ cart: cid.cart}).lean();
+    
+ 
     
     return user;
   };

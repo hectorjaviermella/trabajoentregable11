@@ -6249,3 +6249,884 @@ debug: DELETE en /api/products/64b1c81f039733a3e32a9c8d - 7/17/2023 - 6:33:33 
 debug: POST en /api/sessions/register - 7/17/2023 - 6:33:33 PM
 debug: POST en /api/sessions/login - 7/17/2023 - 6:33:34 PM
 debug: GET en /api/sessions/current - 7/17/2023 - 6:33:34 PM
+debug: Server runing at port 8080
+debug: GET en / - 7/25/2023 - 5:04:20 PM
+debug: GET en /favicon.ico - 7/25/2023 - 5:04:20 PM
+debug: POST en /api/sessions/login - 7/25/2023 - 5:04:26 PM
+debug: GET en /products - 7/25/2023 - 5:04:27 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/25/2023 - 6:32:47 PM
+debug: GET en / - 7/25/2023 - 6:32:49 PM
+debug: POST en /api/sessions/login - 7/25/2023 - 6:32:56 PM
+debug: GET en /products - 7/25/2023 - 6:32:57 PM
+debug: Entro al getProducts
+debug: GET en / - 7/25/2023 - 6:33:07 PM
+debug: GET en /login - 7/25/2023 - 6:33:07 PM
+debug: GET en /login - 7/25/2023 - 6:33:07 PM
+debug: GET en /login - 7/25/2023 - 6:33:07 PM
+debug: GET en /login - 7/25/2023 - 6:33:08 PM
+debug: GET en /login - 7/25/2023 - 6:33:08 PM
+debug: GET en /login - 7/25/2023 - 6:33:08 PM
+debug: GET en /login - 7/25/2023 - 6:33:08 PM
+debug: GET en /login - 7/25/2023 - 6:33:08 PM
+debug: GET en /login - 7/25/2023 - 6:33:08 PM
+debug: GET en /login - 7/25/2023 - 6:33:08 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:09 PM
+debug: GET en /login - 7/25/2023 - 6:33:10 PM
+debug: GET en /api/users/646bcafe3e2006c086faa1bc - 7/25/2023 - 6:38:46 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/25/2023 - 6:38:56 PM
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/25/2023 - 6:39:36 PM
+debug: GET en /api/users/646bcafe3e2006c086faa1bc - 7/25/2023 - 6:39:43 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/25/2023 - 7:05:42 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/25/2023 - 7:22:00 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/25/2023 - 7:22:33 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/25/2023 - 7:38:29 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/25/2023 - 7:39:17 PM
+debug: GET en /products - 7/26/2023 - 6:32:32 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/26/2023 - 6:37:17 PM
+debug: GET en / - 7/26/2023 - 6:37:19 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:24:49 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:28:39 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:35:28 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:39:37 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:40:03 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:41:56 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:42:05 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:43:27 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:44:05 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:44:49 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:45:11 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:46:24 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:47:33 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:49:34 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:50:40 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:50:52 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 4:53:36 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 5:00:41 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 5:00:52 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 5:01:37 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:38:01 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:41:11 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:41:23 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:42:09 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:44:09 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documentss - 7/27/2023 - 6:44:24 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:44:29 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:47:46 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:48:44 PM
+debug: POST en /api/sessions/login - 7/27/2023 - 6:53:28 PM
+debug: GET en /products - 7/27/2023 - 6:53:29 PM
+debug: Entro al getProducts
+debug: GET en /products - 7/27/2023 - 6:53:31 PM
+debug: Entro al getProducts
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:53:35 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:56:12 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 6:57:32 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:01:01 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:01:11 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:01:22 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:01:28 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:02:38 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:02:45 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:03:42 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:09:45 PM
+debug: POST en /api/products - 7/27/2023 - 7:09:57 PM
+debug: POST en /api/products - 7/27/2023 - 7:10:28 PM
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/27/2023 - 7:11:16 PM
+debug: POST en /api/products - 7/27/2023 - 7:11:51 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:22:01 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:22:31 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:22:47 PM
+debug: POST en /api/products - 7/27/2023 - 7:35:56 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/27/2023 - 7:36:07 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:03:46 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:04:39 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/28/2023 - 6:09:56 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:10:20 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:11:35 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:12:42 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:13:39 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/28/2023 - 6:21:26 PM
+debug: GET en / - 7/28/2023 - 6:21:27 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:22:13 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:23:40 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:24:18 PM
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/28/2023 - 6:27:51 PM
+debug: POST en /api/products - 7/28/2023 - 6:37:16 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:41:20 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:48:25 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 6:57:10 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:11:06 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:12:15 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:12:36 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:31:15 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:38:40 PM
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/28/2023 - 7:41:20 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:42:04 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:44:25 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:44:56 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:45:30 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:45:51 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:46:58 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 7:48:01 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:01:20 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:02:34 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:03:17 PM
+debug: GET en /api/users/646bcafe3e2006c086faa1bc - 7/28/2023 - 8:13:27 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:17:08 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:23:39 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:32:27 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:50:03 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:56:13 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:57:55 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:58:43 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:58:56 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:59:13 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 8:59:46 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 9:10:35 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 9:13:15 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 9:14:42 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 9:36:51 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 9:40:47 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 9:44:04 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/28/2023 - 9:45:15 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:30:01 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:30:32 AM
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/29/2023 - 10:31:48 AM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:32:25 AM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:33:37 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:33:57 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:36:20 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:40:42 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:41:40 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:42:15 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:43:04 AM
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/29/2023 - 10:47:52 AM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:48:41 AM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:57:45 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 10:59:26 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:03:23 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:04:56 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:05:43 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:08:15 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:09:05 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:09:42 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:11:25 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:12:04 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:13:34 AM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:15:23 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:17:17 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 11:18:06 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:07:00 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:07:30 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:10:07 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:11:00 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:11:36 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:13:33 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:14:33 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:14:53 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:16:36 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:17:51 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:25:36 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:27:34 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:27:58 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:29:10 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:30:06 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:43:53 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:44:27 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:44:58 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:48:49 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:49:24 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:50:50 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:51:10 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:52:24 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 12:54:16 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:01:15 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:03:37 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:04:10 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:55:36 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:56:20 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:56:44 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:57:26 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:57:46 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:58:37 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 1:59:05 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:13:53 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:15:05 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:15:35 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:18:24 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:19:23 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:20:18 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:20:56 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:22:15 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:23:14 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/29/2023 - 2:24:42 PM
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/29/2023 - 2:25:30 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/29/2023 - 2:29:08 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/products - 7/29/2023 - 2:34:54 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/29/2023 - 3:10:08 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/29/2023 - 3:13:31 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/29/2023 - 3:13:59 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 1:37:56 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:09:17 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:21:34 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents - 7/30/2023 - 2:34:41 PM
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:41:54 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:42:14 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:42:35 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:43:08 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:44:40 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:45:04 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:45:34 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:55:49 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 2:56:04 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:10:34 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:11:18 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:11:53 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:22:10 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:22:58 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:23:11 PM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:25:56 PM
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/30/2023 - 3:26:01 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/31/2023 - 11:41:38 AM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/31/2023 - 11:42:06 AM
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/31/2023 - 11:44:22 AM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/31/2023 - 11:50:30 AM
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/31/2023 - 11:59:40 AM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/31/2023 - 12:03:57 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/users/premium/646bcafe3e2006c086faa1bc - 7/31/2023 - 12:05:04 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 12:19:28 PM
+debug: GET en /products - 7/31/2023 - 12:19:29 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:19:42 PM
+debug: GET en / - 7/31/2023 - 12:19:43 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:19:53 PM
+debug: Server runing at port 8080
+debug: GET en / - 7/31/2023 - 12:21:39 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:21:46 PM
+debug: GET en /products - 7/31/2023 - 12:21:46 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:22:05 PM
+debug: GET en / - 7/31/2023 - 12:22:08 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:22:13 PM
+debug: Server runing at port 8080
+debug: GET en / - 7/31/2023 - 12:31:04 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:31:14 PM
+debug: GET en /products - 7/31/2023 - 12:31:15 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:31:28 PM
+debug: GET en / - 7/31/2023 - 12:31:30 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:31:36 PM
+debug: Server runing at port 8080
+debug: GET en / - 7/31/2023 - 12:35:09 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:35:16 PM
+debug: GET en /products - 7/31/2023 - 12:35:17 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:37:01 PM
+debug: GET en / - 7/31/2023 - 12:37:02 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:37:09 PM
+debug: Server runing at port 8080
+debug: GET en /products - 7/31/2023 - 12:41:19 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:41:20 PM
+debug: GET en / - 7/31/2023 - 12:41:22 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:41:30 PM
+debug: GET en /products - 7/31/2023 - 12:41:30 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:44:20 PM
+debug: GET en / - 7/31/2023 - 12:44:24 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:44:30 PM
+debug: GET en /products - 7/31/2023 - 12:44:31 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:45:36 PM
+debug: GET en / - 7/31/2023 - 12:45:37 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:45:44 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en / - 7/31/2023 - 12:46:51 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:46:57 PM
+debug: GET en /products - 7/31/2023 - 12:46:58 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:50:59 PM
+debug: GET en / - 7/31/2023 - 12:51:02 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 12:51:08 PM
+debug: GET en /products - 7/31/2023 - 12:51:09 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 12:51:12 PM
+debug: GET en / - 7/31/2023 - 12:51:13 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en / - 7/31/2023 - 1:07:53 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 1:07:58 PM
+debug: GET en /products - 7/31/2023 - 1:07:59 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 1:08:05 PM
+debug: GET en / - 7/31/2023 - 1:08:07 PM
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 1:09:48 PM
+debug: GET en /products - 7/31/2023 - 1:09:49 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 1:09:51 PM
+debug: GET en / - 7/31/2023 - 1:09:52 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 1:43:09 PM
+debug: GET en /products - 7/31/2023 - 1:43:10 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 1:43:14 PM
+debug: GET en / - 7/31/2023 - 1:43:15 PM
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 1:45:18 PM
+debug: GET en /products - 7/31/2023 - 1:45:18 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 1:45:20 PM
+debug: GET en / - 7/31/2023 - 1:45:22 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 1:46:42 PM
+debug: GET en /products - 7/31/2023 - 1:46:43 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 1:46:45 PM
+debug: GET en / - 7/31/2023 - 1:46:46 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 1:49:07 PM
+debug: GET en /products - 7/31/2023 - 1:49:08 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 1:49:13 PM
+debug: GET en / - 7/31/2023 - 1:49:14 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 1:53:40 PM
+debug: GET en /products - 7/31/2023 - 1:53:41 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 1:53:43 PM
+debug: GET en / - 7/31/2023 - 1:53:45 PM
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:00:11 PM
+debug: GET en /products - 7/31/2023 - 2:00:12 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:00:13 PM
+debug: GET en / - 7/31/2023 - 2:00:15 PM
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:00:52 PM
+debug: GET en /products - 7/31/2023 - 2:00:53 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:00:55 PM
+debug: GET en / - 7/31/2023 - 2:00:56 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:02:02 PM
+debug: GET en /products - 7/31/2023 - 2:02:03 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:02:06 PM
+debug: GET en / - 7/31/2023 - 2:02:07 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:03:12 PM
+debug: GET en /products - 7/31/2023 - 2:03:13 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:03:15 PM
+debug: GET en / - 7/31/2023 - 2:03:17 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:03:48 PM
+debug: GET en /products - 7/31/2023 - 2:03:48 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:03:50 PM
+debug: GET en / - 7/31/2023 - 2:03:52 PM
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:04:19 PM
+debug: GET en /products - 7/31/2023 - 2:04:19 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:04:21 PM
+debug: GET en / - 7/31/2023 - 2:04:23 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:05:11 PM
+debug: GET en /products - 7/31/2023 - 2:05:12 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:05:13 PM
+debug: GET en / - 7/31/2023 - 2:05:14 PM
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:06:29 PM
+debug: GET en /products - 7/31/2023 - 2:06:29 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:06:32 PM
+debug: GET en / - 7/31/2023 - 2:06:33 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:08:24 PM
+debug: GET en /products - 7/31/2023 - 2:08:24 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 2:10:35 PM
+debug: GET en / - 7/31/2023 - 2:10:38 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 2:15:34 PM
+debug: GET en /products - 7/31/2023 - 2:15:35 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/documents?name=fotoprofile&profile - 7/31/2023 - 2:39:55 PM
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/profile?name=fotoprofile&profile - 7/31/2023 - 2:41:03 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/profile - 7/31/2023 - 2:42:07 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/profile - 7/31/2023 - 2:42:51 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/profile - 7/31/2023 - 2:44:25 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/profile - 7/31/2023 - 2:45:49 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/profile - 7/31/2023 - 2:46:51 PM
+debug: Server runing at port 8080
+debug: POST en /api/users/646bcafe3e2006c086faa1bc/profile - 7/31/2023 - 2:48:47 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:37:53 PM
+debug: Server runing at port 8080
+debug: GET en / - 7/31/2023 - 4:38:55 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 4:39:03 PM
+debug: GET en /products - 7/31/2023 - 4:39:04 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: GET en /products - 7/31/2023 - 4:48:55 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:48:57 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:49:49 PM
+debug: Server runing at port 8080
+debug: GET en /products - 7/31/2023 - 4:50:21 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:50:23 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /products - 7/31/2023 - 4:50:56 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:50:58 PM
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:51:23 PM
+debug: GET en / - 7/31/2023 - 4:51:24 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 4:51:32 PM
+debug: GET en /products - 7/31/2023 - 4:51:32 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:51:38 PM
+debug: GET en / - 7/31/2023 - 4:51:40 PM
+debug: GET en /login - 7/31/2023 - 4:51:40 PM
+debug: GET en /login - 7/31/2023 - 4:51:41 PM
+debug: GET en /login - 7/31/2023 - 4:51:41 PM
+debug: GET en /login - 7/31/2023 - 4:51:41 PM
+debug: GET en /login - 7/31/2023 - 4:51:41 PM
+debug: GET en /login - 7/31/2023 - 4:51:41 PM
+debug: GET en /login - 7/31/2023 - 4:51:41 PM
+debug: GET en /login - 7/31/2023 - 4:51:41 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:42 PM
+debug: GET en /login - 7/31/2023 - 4:51:43 PM
+debug: GET en /login - 7/31/2023 - 4:51:43 PM
+debug: GET en /login - 7/31/2023 - 4:51:43 PM
+debug: GET en /login - 7/31/2023 - 4:51:44 PM
+debug: GET en /login - 7/31/2023 - 4:51:44 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:45 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:46 PM
+debug: GET en /login - 7/31/2023 - 4:51:47 PM
+debug: GET en /login - 7/31/2023 - 4:51:47 PM
+debug: GET en /login - 7/31/2023 - 4:51:52 PM
+debug: GET en /login - 7/31/2023 - 4:51:52 PM
+debug: GET en /login - 7/31/2023 - 4:51:52 PM
+debug: GET en /login - 7/31/2023 - 4:51:52 PM
+debug: GET en /login - 7/31/2023 - 4:51:53 PM
+debug: GET en /login - 7/31/2023 - 4:51:53 PM
+debug: GET en /login - 7/31/2023 - 4:51:53 PM
+debug: GET en /login - 7/31/2023 - 4:51:53 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:54 PM
+debug: GET en /login - 7/31/2023 - 4:51:55 PM
+debug: GET en /login - 7/31/2023 - 4:51:55 PM
+debug: GET en /login - 7/31/2023 - 4:51:55 PM
+debug: GET en /login - 7/31/2023 - 4:51:55 PM
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:52:31 PM
+debug: GET en /products - 7/31/2023 - 4:52:38 PM
+debug: Entro al getProducts
+debug: GET en /products - 7/31/2023 - 4:52:40 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:52:41 PM
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:52:57 PM
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:52:58 PM
+debug: Server runing at port 8080
+debug: GET en /products - 7/31/2023 - 4:53:26 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:53:28 PM
+debug: GET en /products - 7/31/2023 - 4:53:38 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/current - 7/31/2023 - 4:53:40 PM
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:53:43 PM
+debug: GET en / - 7/31/2023 - 4:53:49 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 4:53:56 PM
+debug: GET en /products - 7/31/2023 - 4:53:57 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:54:02 PM
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:54:13 PM
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:54:14 PM
+debug: Server runing at port 8080
+debug: GET en / - 7/31/2023 - 4:55:33 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 4:55:43 PM
+debug: GET en /products - 7/31/2023 - 4:55:43 PM
+debug: Entro al getProducts
+debug: GET en /products - 7/31/2023 - 4:55:47 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/current - 7/31/2023 - 4:55:49 PM
+debug: GET en /products - 7/31/2023 - 4:55:50 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 4:55:55 PM
+debug: GET en / - 7/31/2023 - 4:55:56 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 4:56:16 PM
+debug: GET en /products - 7/31/2023 - 4:56:17 PM
+debug: Entro al getProducts
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 7/31/2023 - 5:06:44 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 5:07:42 PM
+debug: GET en /products - 7/31/2023 - 5:07:43 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 5:07:46 PM
+debug: GET en / - 7/31/2023 - 5:07:48 PM
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: POST en /api/sessions/login - 7/31/2023 - 5:08:10 PM
+debug: GET en /products - 7/31/2023 - 5:08:10 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 5:08:13 PM
+debug: GET en / - 7/31/2023 - 5:08:14 PM
+debug: POST en /api/sessions/login - 7/31/2023 - 5:11:42 PM
+debug: GET en /products - 7/31/2023 - 5:11:42 PM
+debug: Entro al getProducts
+debug: GET en /api/sessions/logout - 7/31/2023 - 5:16:23 PM
+debug: GET en / - 7/31/2023 - 5:16:25 PM
